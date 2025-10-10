@@ -1,4 +1,4 @@
-# legendary-pokemon-classifier
+# Legendary Pokemon Classifier
 
 A short, self-contained notebook that trains classifiers to predict whether a Pokémon is "legendary" using a Kaggle Pokédex dataset.
 
